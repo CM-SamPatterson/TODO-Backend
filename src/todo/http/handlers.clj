@@ -8,7 +8,7 @@
    :headers {"Content-Type" "application/json"}
    :body (json/write-str (protocols/get-all-todos store))})
 
-;; destructure request to extract todo id, then query data using that id
+;; destructure request to extract todo id off of query parameters, then query data using that id
 (defn get-todo [request])
 
 ;; take form values from request and add a new todo to the data

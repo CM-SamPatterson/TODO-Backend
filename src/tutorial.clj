@@ -131,7 +131,8 @@ true false ;; boolean
 ;; P - Print
 ;; L - Loop
 
-;; TODO
+;; Other topics
+;; Comment blocks
 ;; Multi-arity functions
 ;; Function shorthand
 ;; Function application
@@ -142,4 +143,7 @@ true false ;; boolean
 ;; For loop
 ;; Exception handling
 ;; Multi-methods
-;; Core.async
+;; Dynamic vars
+;; Core.async (advanced)
+;; Transducers (advanced)
+;; Zippers (advanced)

@@ -24,4 +24,9 @@
   
   (.stop stop-server)
 
+  ;; TODO
+  ;; query params middleware
+  ;; form params middleware
+  ;; params middleware
+  
   nil)
